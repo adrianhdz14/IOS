@@ -8,7 +8,7 @@ var v1 = "esto es Swift"
 //asigna un numero
 let c1 = 4
 
-//represeta un dato tipo string
+//representa un dato tipo string
 var cadena:String = String()
 
 //representa la asignacion de dos datos
